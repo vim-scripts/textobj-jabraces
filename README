@@ -1,0 +1,15 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2276
+
+*textobj-jabraces* is a Vim plugin to provide text objects for Japanese braces
+such as 「...」 and 【...】.
+
+
+Requirements:
+- Vim 7.0 or later
+- |textobj-user| 0.3.3 or later (vimscript#2100)
+
+Latest version:
+http://github.com/kana/vim-textobj-jabraces
+
+Document in HTML format:
+http://kana.github.com/config/vim/textobj-jabraces.html
